@@ -51,5 +51,16 @@ Este módulo está construido mediante un motor de CC 9V, dos baterías de 1.5V,
   
 **Fallos o consideraciones
 
-Dentro de estos módulos es importante en la sección de movimiento automático de persianas la correcta conexión de baterías al circuito ya que estas pueden sobrealimentar el controlador del motor y este podría quemarse. Además es recomendable utilizar un sensor de voz para el encendido de la luz led, cosa que no se realizó debido a que la plataforma que se usó para el prototipado de los módulos no contiene el dispositivo mencionado. 
+Dentro de estos módulos es importante en la sección de movimiento automático de persianas la correcta conexión de baterías al circuito ya que estas pueden sobrealimentar el controlador del motor y este podría quemarse. Además es recomendable utilizar un sensor de voz para el encendido de la luz led, cosa que no se realizó debido a que la plataforma que se usó para el prototipado de los módulos no contiene el dispositivo mencionado.
+
+
+
+
+
+
+
+
+
+
+
 ![image](https://user-images.githubusercontent.com/86313603/190959460-9cb8047e-3054-4424-89b0-aa840e0fe8d5.png)
